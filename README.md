@@ -1,6 +1,6 @@
 # Data Science App
 
-To acess this app: [Click here](https://dataappsolution.herokuapp.com/)
+To acess this app: [Click here](https://ed-analysis-a043a905103a.herokuapp.com/)
 
 ![alt text](https://github.com/user-attachments/assets/281551da-bd6c-4b78-b063-1db174da39e1)
 
