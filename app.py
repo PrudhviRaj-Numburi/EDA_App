@@ -235,7 +235,7 @@ st.write("""
 	# Data Science App
 	""")
 
-st.image('data.jpg')
+# st.image('data.jpg')
 
 st.write("""
 In this implementation, you can do the EDA of our dataset to speed-up your analysis! \n
